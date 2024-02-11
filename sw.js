@@ -1,0 +1,1 @@
+const cacheName = 'v1';
