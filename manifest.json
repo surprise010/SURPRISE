@@ -18,9 +18,5 @@
     "sizes":"512x512",
     "type":"image/png"
     }
-  ],
-     "splash_screen": {
-        "image": "images/cover.png",
-        "resize_mode": "cover"
-    }
+  ]
 }
