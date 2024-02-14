@@ -13,6 +13,8 @@
 ### 2.need to add chatting function inside app.
 ### 3.add game like gusess the song, find the lyrics of song
 ### 4.and any other features and suggestion are welcome
+### 5. need to add music director images
+### 6.display lyrics of current song playing
 
 ### namma senthu develop panuvom...
 ### this app may be one of memories were can get connceted..
