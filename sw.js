@@ -1,1 +1,0 @@
-const cacheName = 'v1';
