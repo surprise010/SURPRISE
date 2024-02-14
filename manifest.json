@@ -3,7 +3,7 @@
     "short_name":"SURPRISE",
     "start_url":"index.html",
     "display":"standalone",
-    "background_color":"#5900b3",
+    "background_color":"#6767a2",
     "theme_color":"black",
     "scope": ".",
     "description":"MUSICAL SOCIAL APP.",
