@@ -17,11 +17,11 @@
 ### namma senthu develop panuvom...
 ### this app may be one of memories were can get connceted..
 
-## you can listen in browser by the link, also you can install as app(add to homescreen) by click 3 dot in chrome. app will show in homescreen.
+## you can listen in browser directly by the using link, also you can install as app(add to homescreen) by click 3 dot in chrome in android/ios/windows/mac. app will show in homescreen.
 
 ### FAQ:
 ### 1.what if i dont like the song which is playing also can i know the next song and swtich to next song?
-### mudiyathu athan life.. next vara paroathu namaku pudicha Mari irukalam or pudikathu agavum irukalam🙃.. so wait for next surprise in next second.
+### mudiyathu athan than life.. next vara poorathu nammaku pudicha Mari irukalam or pudikathu mari um irukalam🙃.. so wait for next surprise in next second.
 
 ### 2.Is the song playing is same for all.
 ### yes, you can tell your friends, open SURPRISE and play harris oru sema song playing.. he also joins and listen the same with you.. "Lik in childhood days, sunmusic vai da semma paatu poitu iruku -- old memories"
