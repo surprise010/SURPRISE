@@ -27,5 +27,5 @@
 ### yes, you can tell your friends, open SURPRISE and play harris oru sema song playing.. he also joins and listen the same with you.. "Lik in childhood days, sunmusic vai da semma paatu poitu iruku -- old memories"
 
 ### known issues:
-### we can play all artist in same-time, which make its as DJ lol, need to fix this  
+### we can play all artist in same-time, which make its as DJ🙃, need to fix this  
 
