@@ -1,12 +1,12 @@
 {
-    "name":"PWA Tutorial",
-    "short_name":"PWA",
+    "name":"SURPRISE",
+    "short_name":"SURPRISE",
     "start_url":"index.html",
     "display":"standalone",
     "background_color":"#5900b3",
     "theme_color":"black",
     "scope": ".",
-    "description":"This is a PWA tutorial.",
+    "description":"MUSICAL SOCIAL APP.",
     "icons":[
     {
     "src":"images/icon-192x192.png",                     
