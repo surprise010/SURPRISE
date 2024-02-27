@@ -6,7 +6,7 @@
       const player = document.getElementById(playerId);
       if (playerId !== currentPlayerId) {
         player.pause();
-        player.currentTime = 0;
+        //player.currentTime = 0; live playback issue casue
       }
     });
   }
