@@ -6,15 +6,57 @@ const skipPrevBtn = document.querySelector("[data-skip-prev]");
 const musicData = [
   {
     background: "#0B4C5F",
-    title: "Harris",
+    title: "ISAI PUYAL",
     artist: "Playing Now...",
-    musicpath: "https://stream-158.zeno.fm/0bhsthssutzuv?zs=dER78CjVTE-bzSesBUKJ7A",
+    musicpath: "https://stream.zeno.fm/8vs416z3b48uv",
   },
+{
+    background: "#0B4C5F",
+    title: "Rahmania",
+    artist: "Playing Now...",
+    musicpath: "https://stream.zeno.fm/0az0qx8e4p8uv",
+  },
+{
+    background: "#0B4C5F",
+    title: "ISAI NYANI",
+    artist: "Playing Now...",
+    musicpath: "https://stream.zeno.fm/10xewnmcbkhvv",
+  },
+    {
+    background: "#ff6b6b", // Example - replace with actual color
+    title: "ARR Loop",
+    artist: "Playing Now...",
+    musicpath: "https://ec5.yesstreaming.net:2320/stream",
+ },
   {
     background: "#0B4C5F",
-    title: "ARR 1",
+    title: "ARR Limtless",
     artist: "Playing Now...",
     musicpath: "https://www.liveradio.es/http://stream.zeno.fm/ihpr0rqzoxquv",
+  },
+{
+    background: "#0B4C5F",
+    title: "Endrum Raja",
+    artist: "Playing Now...",
+    musicpath: "https://stream.zeno.fm/5u2c0yh0ekhvv",
+  },
+{
+    background: "#0B4C5F",
+    title: "Harris MAAMS",
+    artist: "Playing Now...",
+    musicpath: "https://stream.zeno.fm/kxaqyb63138uv",
+  },
+{
+    background: "#0B4C5F",
+    title: "U1 Drugs",
+    artist: "Playing Now...",
+    musicpath: "https://stream.zeno.fm/f939szg6a48uv",
+  },
+{
+    background: "#0B4C5F",
+    title: "Harrizzz",
+    artist: "Playing Now...",
+    musicpath: "https://stream-158.zeno.fm/0bhsthssutzuv",
   },
 {
     background: "#0B4C5F",
@@ -26,26 +68,26 @@ const musicData = [
     background: "#0B4C5F",
     title: "G V",
     artist: "Playing Now...",
-    musicpath: "https://stream-164.zeno.fm/c9cxafngfekvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjOWN4YWZuZ2Zla3Z2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVDS0RPbnBJU2hTaEl3ODB0dGdvdEEiLCJpYXQiOjE3MjE0ODY4OTgsImV4cCI6MTcyMTQ4Njk1OH0.HCFviDDgVZNoiVs5sjWWLsKi4sw-JHJdIsLGz7dvgBw",
+    musicpath: "https://stream-164.zeno.fm/c9cxafngfekvv",
   },
 {
     background: "#0B4C5F",
     title: "swarnalatha",
     artist: "Playing Now...",
-    musicpath: "https://stream-169.zeno.fm/gr6nspzaa48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJncjZuc3B6YWE0OHV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InphVXQwZVVSVDVTMnlWczFhSlgyWkEiLCJpYXQiOjE3MjE0ODcwMTksImV4cCI6MTcyMTQ4NzA3OX0.we-SCYZzp2kNkDaOTaq-Z7-_M2SYpvAdNcbJjxQFK_Q",
+    musicpath: "https://stream-169.zeno.fm/gr6nspzaa48uv",
   },
 {
     background: "#0B4C5F",
-    title: "Surprise",
+    title: "Mix",
     artist: "Playing Now...",
-    musicpath: "https://cast4.asurahosting.com/proxy/neville/stream%20%7C%20http://cast4.my-control-panel.com/proxy/neville?mp=/stream",
+    musicpath: "https://stream.zeno.fm/v0bu4uc1c48uv",
   },
-  {
-    background: "#ff6b6b", // Example - replace with actual color
-    title: "ARR",
+   {
+    background: "#0B4C5F",
+    title: "Retro",
     artist: "Playing Now...",
-    musicpath: "https://ec5.yesstreaming.net:2320/stream",
- }
+    musicpath: "https://stream.zeno.fm/zrkta9fvzv8uv",
+  }
 ];
 
 const addEventOnElements = function (elements, eventType, callback) {
@@ -65,7 +107,6 @@ for (let i = 0, len = musicData.length; i < len; i++) {
       </div>
       <div>
         <p class="title-sm">${musicData[i].title}</p>
-        <p class="label-sm">${musicData[i].artist}</p>
       </div>
     </button>
   </li>
