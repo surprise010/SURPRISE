@@ -11,11 +11,41 @@ const musicData = [
     musicpath: "https://stream-158.zeno.fm/0bhsthssutzuv?zs=dER78CjVTE-bzSesBUKJ7A",
   },
   {
+    background: "#0B4C5F",
+    title: "ARR 1",
+    artist: "Playing Now...",
+    musicpath: "https://www.liveradio.es/http://stream.zeno.fm/ihpr0rqzoxquv",
+  },
+{
+    background: "#0B4C5F",
+    title: "Na muthukumar",
+    artist: "Playing Now...",
+    musicpath: "https://www.liveradio.es/http://154.38.171.207:8130/na.muthukumar",
+  },
+{
+    background: "#0B4C5F",
+    title: "G V",
+    artist: "Playing Now...",
+    musicpath: "https://stream-164.zeno.fm/c9cxafngfekvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjOWN4YWZuZ2Zla3Z2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVDS0RPbnBJU2hTaEl3ODB0dGdvdEEiLCJpYXQiOjE3MjE0ODY4OTgsImV4cCI6MTcyMTQ4Njk1OH0.HCFviDDgVZNoiVs5sjWWLsKi4sw-JHJdIsLGz7dvgBw",
+  },
+{
+    background: "#0B4C5F",
+    title: "swarnalatha",
+    artist: "Playing Now...",
+    musicpath: "https://stream-169.zeno.fm/gr6nspzaa48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJncjZuc3B6YWE0OHV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InphVXQwZVVSVDVTMnlWczFhSlgyWkEiLCJpYXQiOjE3MjE0ODcwMTksImV4cCI6MTcyMTQ4NzA3OX0.we-SCYZzp2kNkDaOTaq-Z7-_M2SYpvAdNcbJjxQFK_Q",
+  },
+{
+    background: "#0B4C5F",
+    title: "Surprise",
+    artist: "Playing Now...",
+    musicpath: "https://cast4.asurahosting.com/proxy/neville/stream%20%7C%20http://cast4.my-control-panel.com/proxy/neville?mp=/stream",
+  },
+  {
     background: "#ff6b6b", // Example - replace with actual color
     title: "ARR",
     artist: "Playing Now...",
     musicpath: "https://ec5.yesstreaming.net:2320/stream",
-  }
+ }
 ];
 
 const addEventOnElements = function (elements, eventType, callback) {
